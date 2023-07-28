@@ -1,0 +1,34 @@
+[
+  {
+    "image": "accommodation 1.png",
+    "bg_image": "circle.svg",
+    "title": "Accommodation",
+    "description1": "20,000+ Listed Properties  ",
+    "subDescription": "across 5 countries.",
+    "description2": "  100+cities"
+  },
+  {
+    "image": "boarding-pass 2.png",
+    "bg_image": "circle.svg",
+    "title": "Visa Application",
+    "description1": "By Industry leading Immigration",
+    "subDescription": "Consultants.",
+    "description2": " Quick & Hassle Free Visa Filing"
+  },
+  {
+    "image": "community 1.png",
+    "bg_image": "circle.svg",
+    "title": "Centralized Community",
+    "description1": "Talk to international student ",
+    "subDescription": "community.",
+    "description2": "Ask your queries and doubts"
+  },
+  {
+    "image": "real-estate (1) 1.png",
+    "bg_image": "circle.svg",
+    "title": "Education Loan",
+    "description1": "100% Funding with quick loan ",
+    "subDescription": "sanction!",
+    "description2": "Pre-admission loan"
+  }
+]
